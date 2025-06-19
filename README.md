@@ -23,9 +23,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Clone the project, change into the directory and install the dependencies.
 ```bash
 
-git clone https://github.com/jonedavis/twilio-saasmart-demo.git
+git clone https://github.com/CloudDev777/Twilio_saasmart_Demo.git
 
-cd twilio-saasmart-demo
+cd Twilio_saasmart_Demo
 
 npm install
 
